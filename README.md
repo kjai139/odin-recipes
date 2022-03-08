@@ -1,2 +1,4 @@
 # odin-recipes
-project odin exercise
+
+
+basic html exercise
