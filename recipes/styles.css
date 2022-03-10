@@ -1,0 +1,28 @@
+h1 {
+    color: black;
+    font-size: 46px;
+    font-family: sans-serif, 'Times New Roman', Arial;
+}
+
+ul {
+    background-color: pink;
+}
+
+ol {
+    background-color: beige;
+}
+
+h2 {
+    background-color: lightgreen;
+    font-family: Helvetica, Arial;
+}
+
+.description {
+    font-family: Helvetica, Arial;
+    background-color: lightblue;
+}
+
+.description.body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: lightgrey;
+}
